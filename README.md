@@ -1,93 +1,71 @@
-IFÁ — AI Market Intelligence
+<div align="center">
+  <img src="assets/ifa-official-logo.png" alt="IFÁ Trade Intelligence official black and gold logo" width="860" />
 
+  # IFÁ — Trade Intelligence
 
-Research. Intelligence. Discipline.
+  **AI-assisted market intelligence and disciplined strategy research**
 
+  *Research. Intelligence. Discipline.*
 
-IFÁ is an AI-assisted financial market intelligence project focused on understanding market behavior, evaluating trading strategies, and developing disciplined, evidence-based decision systems.
+  **Active development · Pre-release · Public showcase**
+</div>
 
+---
 
-Our Vision
+## Our vision
 
+IFÁ is a research-driven financial intelligence project focused on understanding market behavior, evaluating trading ideas, and building disciplined, evidence-based decision systems.
 
-To develop a trustworthy financial intelligence platform capable of analyzing changing market conditions, evaluating opportunities, and supporting informed investment decisions.
+Our aim is to develop a trustworthy market-intelligence platform that combines market observation, reproducible research, strategy evaluation, and risk-aware decision support.
 
+> **Transparency:** IFÁ is undergoing infrastructure recovery and intelligence-engine validation. Operational readiness, continuous self-learning, and trading performance are not yet independently demonstrated.
 
-Research Focus
+## Research priorities
 
+| Area | Focus |
+| --- | --- |
+| **Market intelligence** | Study price movements, trends, and changing market conditions. |
+| **Strategy research** | Evaluate trading ideas using historical research and controlled testing. |
+| **Risk management** | Apply explicit safety constraints and preserve owner control. |
+| **Intelligence continuity** | Preserve observations and validate recovery across restarts. |
+| **Evidence and evaluation** | Track tested outcomes, limitations, and failed hypotheses. |
 
+## Intended research workflow
 
+1. **Observe:** Gather market information from qualified sources.
+2. **Validate:** Check freshness, integrity, and data provenance.
+3. **Record:** Preserve research observations and supporting evidence.
+4. **Evaluate:** Test trading ideas against documented criteria.
+5. **Compare:** Measure proposed changes against existing methods.
+6. **Report:** Present findings, uncertainty, and limitations clearly.
 
-Market Intelligence: Analyze price movements, trends, and market conditions.
+These describe the research direction, not a claim that all functions are currently running in production.
 
+## Roadmap
 
-Strategy Research: Evaluate investment and trading ideas through historical research and controlled testing.
+- [ ] Complete intelligence-engine recovery and verify clean restarts.
+- [ ] Verify reliable market-data collection and quality checks.
+- [ ] Establish reproducible strategy evaluation benchmarks.
+- [ ] Determine whether experience-driven improvements outperform a fixed baseline on unseen data.
+- [ ] Publish selected independently verifiable research outcomes and limitations.
+- [ ] Explore future research collaborations and integrations.
 
+## Public showcase and intellectual property
 
-Risk Management: Prioritize capital protection and clearly defined execution safeguards.
+This public repository is a **project showcase**, not the IFÁ production engine. Proprietary code, model files, strategies, research data, credentials, operational endpoints, and customer information remain private.
 
+The visual logo shown above is owner-supplied official artwork. Do not reuse the brand artwork without permission. No open-source license for the production IFÁ engine is granted here.
 
-Intelligence Continuity: Explore persistent observation records, reliable recovery, and reproducible analysis.
+For public identity and design principles, read [BRAND.md](BRAND.md).
 
+## Follow progress
 
-Performance Validation: Measure strategy quality using transparent, evidence-based testing.
+Use GitHub's **Watch** function to follow public repository updates. Please do not post private configuration, tokens, logs, or sensitive data in public issues.
 
+## Important disclaimer
 
+IFÁ is an experimental research and financial technology project. This repository does not provide financial advice, public investment recommendations, a brokerage service, or verified live trading results. No returns or outcomes are guaranteed.
 
+---
 
-Development Status
-
-
-Active development — pre-release
-
-
-IFÁ is undergoing infrastructure recovery, integration testing, and intelligence-engine validation.
-
-
-Automated learning improvements, production readiness, and trading performance have not yet been independently verified.
-
-
-Roadmap
-
-
-
-
-[ ] Complete intelligence-engine recovery and startup validation.
-
-
-[ ] Verify reliable market-data collection.
-
-
-[ ] Establish measurable strategy evaluation benchmarks.
-
-
-[ ] Validate learning and adaptation capabilities.
-
-
-[ ] Publish selected, independently verifiable research findings.
-
-
-[ ] Explore future integrations and partnerships.
-
-
-
-
-Proprietary Technology
-
-
-The IFÁ production runtime, proprietary strategies, sensitive research assets, and internal infrastructure are maintained privately.
-
-
-This repository is a public project showcase and does not contain the production trading engine.
-
-
-Disclaimer
-
-
-IFÁ is an experimental financial technology research project. Published information is not investment advice, and no returns or trading outcomes are guaranteed.
-
-
-
-IFÁ — Building toward evidence-driven financial intelligence.
-
-
+<div align="center"><strong>IFÁ — Research. Intelligence. Discipline.</strong></div>
