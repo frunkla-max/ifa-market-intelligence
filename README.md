@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ifa-official-logo.png" alt="IFÁ Trade Intelligence official black and gold logo" width="860" />
+  <img src="ifa-official-logo.png" alt="IFÁ Trade Intelligence official black and gold logo" width="860" />
 
   # IFÁ — Trade Intelligence
 
@@ -67,5 +67,6 @@ Use GitHub's **Watch** function to follow public repository updates. Please do n
 IFÁ is an experimental research and financial technology project. This repository does not provide financial advice, public investment recommendations, a brokerage service, or verified live trading results. No returns or outcomes are guaranteed.
 
 ---
+
 
 <div align="center"><strong>IFÁ — Research. Intelligence. Discipline.</strong></div>
